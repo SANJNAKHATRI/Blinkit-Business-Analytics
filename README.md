@@ -16,7 +16,7 @@ The goal of this project is to build an interactive sales dashboard for Blinkit 
 - What are the top-performing outlets and regions over time?
 - How does customer rating correlate with sales and product types?
 - What trends can help optimize inventory, marketing, and outlet strategies?
--  - Dashboard Interaction <a href="https://github.com/SANJNAKHATRI/Blinkit-Business-Analytics/blob/main/BlinkIT%20Grocery%20Excel%20Report.xlsx">View Dashboard</a>
+-  Dashboard Interaction <a href="https://github.com/SANJNAKHATRI/Blinkit-Business-Analytics/blob/main/BlinkIT%20Grocery%20Excel%20Report.xlsx">View Dashboard</a>
 
 ## Key Performance Indicators (KPIs)
 - Total Sales: Overall revenue generated
@@ -29,7 +29,7 @@ The goal of this project is to build an interactive sales dashboard for Blinkit 
 ## Pivot Tables and Analysis
 Analysis 1                                                                                                                   | Analysis 2
 :--------------------------------:|:-------------------------:
-![image alt](https://github.com/SANJNAKHATRI/Blinkit-Business-Analytics/blob/e12adc125e218ecc40658ae3e644a9dc25a99cff/pivot%206.png)|  ![image alt](UKPivot![Uploading pivot 6.png…](https://github.com/SANJNAKHATRI/Blinkit-Business-Analytics/blob/e12adc125e218ecc40658ae3e644a9dc25a99cff/pivot%204.png)
+![image alt](https://github.com/SANJNAKHATRI/Blinkit-Business-Analytics/blob/e12adc125e218ecc40658ae3e644a9dc25a99cff/pivot%206.png)|  ![image alt](https://github.com/SANJNAKHATRI/Blinkit-Business-Analytics/blob/e12adc125e218ecc40658ae3e644a9dc25a99cff/pivot%204.png)
   
 
  ## Process For Analysis
@@ -60,6 +60,6 @@ This dashboard provides a comprehensive view of Blinkit’s business performance
 - Interactive Excel Dashboard
 - Business Insights & KPIs
   
-✅ Created by: Sanjna Bai
-✅ Built with: Microsoft Excel
-✅ Dataset: Blinkit Busniess Analysis
+- ✅ Created by: Sanjna Bai
+- ✅ Built with: Microsoft Excel
+- ✅ Dataset: Blinkit Busniess Analysis
