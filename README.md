@@ -1,2 +1,3 @@
-# Blinkit-Business-Analytics
-This project focuses on cleaning, analyzing, and visualizing Blinkit data to uncover key trends in sales performance, customer behavior, and product demand. The analysis transforms raw data into clear, actionable insights through structured exploration and impactful visual reporting, supporting data-driven decision-making.
+## Blinkit Business Analysis - KPI Dashboard in Excel
+## Introduction 
+I wanted to build an interactive sales dashboard, so I used a Blinkit dataset to analyze key business metrics like total sales, profit, order trends, top products, and regional performance. To make the dashboard engaging, I included light and dark mode options, allowing users to switch themes based on their preference while exploring actionable insights from Blinkit’s business data.
